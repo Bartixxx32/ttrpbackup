@@ -1,0 +1,6 @@
+drwxr-xr-x 1 ftp ftp              0 Jun 22 05:23 audio
+drwxr-xr-x 1 ftp ftp              0 Jun 22 05:27 data
+-rw-r--r-- 1 ftp ftp          92653 Jun 22 04:57 global.oxt
+-rw-r--r-- 1 ftp ftp         126145 Jun 22 04:57 names.lua
+drwxr-xr-x 1 ftp ftp              0 Jun 22 05:23 stream
+-rw-r--r-- 1 ftp ftp           4380 Jun 22 04:57 __resource.lua
