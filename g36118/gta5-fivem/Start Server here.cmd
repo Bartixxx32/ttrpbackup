@@ -3,5 +3,5 @@ echo -
 echo FXServer esx
 echo -
 pause
-start C:\NEWESX\run.cmd +exec server.cfg
+start run.cmd +exec server.cfg
 exit

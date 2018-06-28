@@ -1,4 +1,0 @@
-drwxr-xr-x 1 ftp ftp              0 Jun 22 00:49 lua
--rw-r--r-- 1 ftp ftp            900 Jun 22 00:49 resource_init.lua
--rw-r--r-- 1 ftp ftp           1019 Jun 22 00:49 rpc_natives.json
-drwxr-xr-x 1 ftp ftp              0 Jun 22 00:49 v8

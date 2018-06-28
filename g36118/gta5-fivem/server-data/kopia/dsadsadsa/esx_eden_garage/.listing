@@ -1,6 +1,0 @@
--rw-r--r-- 1 ftp ftp           9731 Jun 21 06:30 client.lua
--rw-r--r-- 1 ftp ftp           1032 Jun 21 22:51 config.lua
--rw-r--r-- 1 ftp ftp            115 Jun 21 06:30 eden_garage.sql
--rw-r--r-- 1 ftp ftp            786 Jun 21 06:30 README.md
--rw-r--r-- 1 ftp ftp           4926 Jun 21 06:30 server.lua
--rw-r--r-- 1 ftp ftp            126 Jun 21 06:30 __resource.lua

@@ -1,9 +1,0 @@
--rw-r--r-- 1 ftp ftp           1944 Jun 22 11:23 background-handler.js
--rw-r--r-- 1 ftp ftp           4466 Jun 24 00:32 config.js
--rw-r--r-- 1 ftp ftp            933 Jun 22 11:23 logger.js
--rw-r--r-- 1 ftp ftp           1901 Jun 22 11:23 music-controls.js
--rw-r--r-- 1 ftp ftp           2569 Jun 22 11:23 music-handler.js
--rw-r--r-- 1 ftp ftp           2521 Jun 22 11:23 progressbar-handler.js
--rw-r--r-- 1 ftp ftp            122 Jun 22 11:23 progressbar-main.js
--rw-r--r-- 1 ftp ftp           3431 Jun 22 11:23 progressbar-renderer.js
--rw-r--r-- 1 ftp ftp            521 Jun 22 11:23 synn.js

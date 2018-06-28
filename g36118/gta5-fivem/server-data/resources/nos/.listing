@@ -1,6 +1,0 @@
--rw-r--r-- 1 ftp ftp            324 Jun 22 00:04 .gitignore
-drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 client
--rw-r--r-- 1 ftp ftp           1063 Jun 22 00:04 LICENSE
--rw-r--r-- 1 ftp ftp            627 Jun 22 00:04 README.md
-drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 server
--rw-r--r-- 1 ftp ftp            169 Jun 22 00:04 __resource.lua

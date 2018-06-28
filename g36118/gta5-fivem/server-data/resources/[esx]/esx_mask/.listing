@@ -1,9 +1,0 @@
-drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 client
--rw-r--r-- 1 ftp ftp            477 Jun 28 03:00 config.lua
--rw-r--r-- 1 ftp ftp            104 Jun 22 00:04 esx_mask.sql
--rw-r--r-- 1 ftp ftp          35093 Jun 22 00:04 LICENSE.txt
-drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 locales
-drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 localization
--rw-r--r-- 1 ftp ftp            462 Jun 22 00:04 README.md
-drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 server
--rw-r--r-- 1 ftp ftp            422 Jun 22 00:04 __resource.lua

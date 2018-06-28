@@ -1,8 +1,0 @@
--rw-r--r-- 1 ftp ftp            324 Jun 25 13:37 .gitignore
-drwxr-xr-x 1 ftp ftp              0 Jun 25 13:37 client
--rw-r--r-- 1 ftp ftp            440 Jun 28 03:00 config.lua
-drwxr-xr-x 1 ftp ftp              0 Jun 25 13:37 html
-drwxr-xr-x 1 ftp ftp              0 Jun 25 13:37 locales
--rw-r--r-- 1 ftp ftp            250 Jun 25 13:37 README.md
-drwxr-xr-x 1 ftp ftp              0 Jun 25 13:37 server
--rw-r--r-- 1 ftp ftp            359 Jun 25 13:37 __resource.lua
