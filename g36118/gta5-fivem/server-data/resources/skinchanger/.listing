@@ -1,0 +1,8 @@
+-rw-r--r-- 1 ftp ftp            147 Jun 24 20:37 .editorconfig
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 client
+-rw-r--r-- 1 ftp ftp             33 Jun 24 20:36 config.lua
+-rw-r--r-- 1 ftp ftp          35099 Jun 22 00:04 LICENSE.txt
+-rw-r--r-- 1 ftp ftp            512 Jun 24 20:36 locale.lua
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 locales
+-rw-r--r-- 1 ftp ftp           1494 Jun 22 00:04 README.md
+-rw-r--r-- 1 ftp ftp            176 Jun 24 20:36 __resource.lua

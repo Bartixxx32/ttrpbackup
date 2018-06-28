@@ -1,0 +1,10 @@
+-rw-r--r-- 1 ftp ftp            146 Jun 22 00:04 .editorconfig
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 client
+-rw-r--r-- 1 ftp ftp           3240 Jun 28 03:00 config.lua
+-rw-r--r-- 1 ftp ftp           1160 Jun 22 00:04 esx_grove.sql
+-rw-r--r-- 1 ftp ftp          35103 Jun 22 00:04 LICENSE.txt
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 locales
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 localization
+-rw-r--r-- 1 ftp ftp            944 Jun 22 00:04 README.md
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 server
+-rw-r--r-- 1 ftp ftp            473 Jun 22 00:04 __resource.lua

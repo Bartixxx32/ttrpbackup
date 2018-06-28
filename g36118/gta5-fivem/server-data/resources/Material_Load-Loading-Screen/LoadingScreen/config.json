@@ -1,0 +1,42 @@
+[
+	{
+		"useBackgroundColour" : "true",
+		"backgroundColour" : "10,10,10",
+		"useBackgroundImage" : "true",
+		"backgroundImagePath" : "images/backgroundImg2.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,204,0",
+		"useBoldText" : "false",
+		"serverTitle" : "TimeToRP",
+		"playAudioInBackground" : "true",
+		"audioPath" : "audio/gtavthemesong.ogg",
+		"audioVolume" : "0.06"
+	},
+	{
+		"rule1" : "Nie rob RDM oraz VDM!",
+		"rule2" : "Sprawdz czy twoj mikrofon dziala!",
+		"rule3" : "Nie uzywaj bledow serwera!",
+		"rule4" : "Nie uzywaj cheatow!",
+		"rule5" : "Nie naduzywaj czatu OOC!",
+		"rule6" : "Szanuj Innych!",
+		"rule7" : "Reszta regulaminu na Discordzie!"
+	},
+	{
+		"servers1" : "Discord - https://discord.gg/eAkKZwN",
+		"servers2" : " ",
+		"servers3" : "Skrypter RaXMT200 ",
+		"servers4" : " ",
+		"servers5" : "Grafik PROQU",
+		"servers6" : " ",
+		"servers7" : "Pomocnik Bartixxx"
+	},
+	{
+		"content1" : "Wlasna Postac!",
+		"content2" : "Kupno i sprzedaz Pojazdow!",
+		"content3" : "Policja!",
+		"content4" : "Wiele Prac",
+		"content5" : "Banki i bankomaty",
+		"content6" : "Importowane Samochody",
+		"content7" : "Prywatny Telefon"
+	}
+]

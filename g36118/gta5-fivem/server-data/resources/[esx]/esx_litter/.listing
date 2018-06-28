@@ -1,0 +1,7 @@
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 client
+-rw-r--r-- 1 ftp ftp            863 Jun 28 03:00 config.lua
+-rw-r--r-- 1 ftp ftp            103 Jun 22 00:04 esx_litter.sql
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 locales
+-rw-r--r-- 1 ftp ftp            255 Jun 22 00:04 README.md
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 server
+-rw-r--r-- 1 ftp ftp            310 Jun 22 00:04 __resource.lua

@@ -30,7 +30,7 @@ drwxr-xr-x 1 ftp ftp              0 Jun 22 21:04 citizen
 -rw-r--r-- 1 ftp ftp         305152 Jun 22 00:49 profiles.dll
 -rw-r--r-- 1 ftp ftp             60 Jun 22 00:49 run.cmd
 -rw-r--r-- 1 ftp ftp          28672 Jun 22 00:49 scripting-server.dll
-drwxr-xr-x 1 ftp ftp              0 Jun 28 01:19 server-data
+drwxr-xr-x 1 ftp ftp              0 Jun 28 03:38 server-data
 -rw-r--r-- 1 ftp ftp           1168 Jun 22 00:48 server-tls.crt
 -rw-r--r-- 1 ftp ftp           1704 Jun 22 00:48 server-tls.key
 -rw-r--r-- 1 ftp ftp           4285 Jun 22 00:48 server.cfg

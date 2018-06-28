@@ -1,0 +1,10 @@
+-rw-r--r-- 1 ftp ftp            147 Jun 22 00:04 .editorconfig
+-rw-r--r-- 1 ftp ftp             65 Jun 22 00:04 .gitattributes
+-rw-r--r-- 1 ftp ftp           2734 Jun 22 00:04 client.lua
+-rw-r--r-- 1 ftp ftp            304 Jun 22 00:04 esx_identity.sql
+-rw-r--r-- 1 ftp ftp            272 Jun 22 00:04 esx_identity_update.sql
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 html
+-rw-r--r-- 1 ftp ftp          35140 Jun 22 00:04 license.txt
+-rw-r--r-- 1 ftp ftp            941 Jun 22 00:04 README.md
+-rw-r--r-- 1 ftp ftp          18236 Jun 22 00:04 server.lua
+-rw-r--r-- 1 ftp ftp            267 Jun 22 00:04 __resource.lua

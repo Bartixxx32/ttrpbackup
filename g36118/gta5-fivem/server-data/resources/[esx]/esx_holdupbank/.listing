@@ -1,0 +1,5 @@
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 client
+-rw-r--r-- 1 ftp ftp            926 Jun 28 03:00 config.lua
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 locales
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 server
+-rw-r--r-- 1 ftp ftp            366 Jun 22 00:04 __resource.lua

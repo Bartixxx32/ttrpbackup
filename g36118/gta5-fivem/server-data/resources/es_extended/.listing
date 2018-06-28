@@ -1,0 +1,13 @@
+-rw-r--r-- 1 ftp ftp            146 Jun 25 20:06 .editorconfig
+drwxr-xr-x 1 ftp ftp              0 Jun 22 01:17 client
+-rw-r--r-- 1 ftp ftp            655 Jun 25 20:05 config.lua
+-rw-r--r-- 1 ftp ftp           6158 Jun 22 01:17 config.weapons.lua
+-rw-r--r-- 1 ftp ftp           1664 Jun 25 20:06 es_extended.sql
+drwxr-xr-x 1 ftp ftp              0 Jun 22 01:17 es__extended
+drwxr-xr-x 1 ftp ftp              0 Jun 22 01:17 html
+-rw-r--r-- 1 ftp ftp          35099 Jun 22 01:17 LICENSE.txt
+-rw-r--r-- 1 ftp ftp            511 Jun 25 20:05 locale.lua
+drwxr-xr-x 1 ftp ftp              0 Jun 22 01:17 locales
+-rw-r--r-- 1 ftp ftp           3417 Jun 22 01:17 README.md
+drwxr-xr-x 1 ftp ftp              0 Jun 22 01:17 server
+-rw-r--r-- 1 ftp ftp           1275 Jun 22 01:17 __resource.lua

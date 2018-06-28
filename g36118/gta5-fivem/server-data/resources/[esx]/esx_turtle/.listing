@@ -1,0 +1,7 @@
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 client
+-rw-r--r-- 1 ftp ftp            883 Jun 28 03:00 config.lua
+-rw-r--r-- 1 ftp ftp             91 Jun 22 00:04 esx_lsd.sql
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 locales
+-rw-r--r-- 1 ftp ftp            255 Jun 22 00:04 README.md
+drwxr-xr-x 1 ftp ftp              0 Jun 22 00:04 server
+-rw-r--r-- 1 ftp ftp            307 Jun 22 00:04 __resource.lua
